@@ -1,2 +1,14 @@
-# HtmlOdev1
-HTML
+<h1>Sedef Mercan</h1> <!--Ana başlık burada yer alıyor -->
+
+<h3>Hakkımda</h3> <!--Alt başlık burada yer alıyor-->
+<p>Merhaba.Ben Sedef Mercan.İstanbul'da yaşıyorum.Fantastik ve macera filmlerini ve kitaplarını çok severim.Tam bir Harry Potter hayranıyım.
+Web geliştirme ile ilgileniyorum.Kodluyoruz'un bu eğitim serisi <br> <!--Hakkımda içeren bilgiler yer alıyor-->
+sayesinde harika şeyler öğrendim ve öğrenmeye devam ediyorum! Sizde aramıza katılın.</p>
+
+<h2>Sevdiğim Filmler</h2> <!--Orta Ana başlık yer alıyor. -->
+<h3>Harry Potter: Zümrüdüanka Yoldaşlığı</h3> <!--Alt başlık yer alıyor.-->
+<p>Zümrüdüanka Yoldaşlığı:J.K. Rowling'in Harry Potter serisinin aynı adlı beşinci kitabından uyarlanan, 2007 yapımı, fantastik macera filmidir.
+Serinin en uzun kitabından uyarlanmıştır.Türkiye'de 2007 yılında <br>sinemalarda vizyona girmiştir. </p>
+
+<p>Filmde en çok dikkatimi çeken , arkadaşlığın ve sevginin  iyi veya kötü şekilde her şeyin üstündesinden gelebileceğidir.
+Ayrıca Farklı tipte ve karakterde insanlarında olabileceğidir. Luna Lovegood buna en iyi örnektir.</p> <!--Kişisel görüşüm yer alıyor.-->
